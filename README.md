@@ -1,2 +1,2 @@
-# chat-client-UI
+# client-man
 ReactJs application that uses STOMP client to connect and subscribe to the chat service. Also, it provides the user interface.
